@@ -6,3 +6,8 @@
 body {
   background-color: white;
 }
+
+#header-img {
+	width: 7%;
+	height: 7%;
+}
