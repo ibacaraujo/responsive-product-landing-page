@@ -1,6 +1,8 @@
 #nav-bar {
+  display: inline-block;
   position: fixed;
   top: 0px;
+  float: left;
 }
 
 body {
