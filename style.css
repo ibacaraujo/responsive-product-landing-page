@@ -17,3 +17,7 @@ body {
 #header {
 	background-color: lightgrey;
 }
+
+form {
+	margin-top: 10px;
+}
