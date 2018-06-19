@@ -1,6 +1,6 @@
 #nav-bar {
+  display: inline-block;
   top: 0px;
-  float: left;
 }
 
 body {
@@ -10,11 +10,6 @@ body {
 #header-img {
   width: 7%;
   height: 7%;
-}
-
-#header {
-  display: flex;
-  flex-direction: row;
 }
 
 form {
