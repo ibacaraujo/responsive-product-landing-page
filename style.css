@@ -5,6 +5,15 @@
 
 nav ul {
   list-style-type: none;
+  display: inline-block;
+}
+
+li {
+  display: inline-block;
+}
+
+#nav-bar a {
+  float: right;
 }
 
 body {
