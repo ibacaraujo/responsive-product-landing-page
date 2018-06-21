@@ -8,21 +8,24 @@ h2 {
   text-align: center;
 }
 
-#nav-bar {
+header #nav-bar {
+  text-align: right;
   display: inline-block;
   top: 0px;
+  margin-left: 1000px;
 }
 
-nav ul {
+#header #nav-bar ul {
+  text-align: right;
   list-style-type: none;
-  display: inline-block;
 }
 
-li {
+#header #nav-bar ul li {
   display: inline-block;
 }
 
 #nav-bar a {
+  text-align: right;
   float: right;
 }
 
